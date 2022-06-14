@@ -1,0 +1,27 @@
+export default [
+    {
+        name:'Home',
+        iconType:'FontAwesome5',
+        iconName:'home'
+    },
+    {
+        name:'Calculadora',
+        iconType:'Ionicons',
+        iconName:'md-calculator-sharp'
+    },
+    {
+        name:'Receitas',
+        iconType:'SimpleLineIcons',
+        iconName:'note'
+    },
+    {
+        name:'Dicas',
+        iconType:'FontAwesome',
+        iconName:'lightbulb-o'
+    },
+    {
+        name:'Colaboradores',
+        iconType:'Ionicons',
+        iconName:'information-circle-outline'
+    }
+ ]
